@@ -1,4 +1,3 @@
 # Homework
-makeing conflict 
-in
-README file
+
+We resolved the conflict!
