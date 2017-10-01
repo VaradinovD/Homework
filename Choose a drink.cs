@@ -26,7 +26,7 @@ namespace _01.Choose_a_Drink
             }
             else
             {
-                Console.WriteLine("Tea");
+                Console.WriteLine("Chai");
             }
         }
     }
